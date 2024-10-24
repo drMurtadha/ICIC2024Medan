@@ -1,5 +1,12 @@
 # Smart Campuses: Leveraging IoT and AI for Enhanced Learning Environments in Higher Education
 
+keynote for ICIC2024 Medan
+
+Yang terhormat Pimpinan APTIKOM beserta jajaran.
+
+Yang Kami hormati pimpinan universitas ilmu komputer seluruh Indonesia.
+
+Serta bapak ibu peserta Rakornas APTIKOM 2024.
 ## 1. Introducing the Faculty (2 minutes)
 
 **Slide Title**: Faculty of Computing, Universiti Teknologi Malaysia (UTM)
